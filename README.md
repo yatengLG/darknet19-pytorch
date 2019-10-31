@@ -16,7 +16,7 @@ GIthub使用指北:
 
 (you can use it same as models of the torchvision)
 
-welcome star, fork, watch.
+welcome **star**, **fork**, **watch**.
 
 ---
 
