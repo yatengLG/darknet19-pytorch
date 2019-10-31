@@ -10,7 +10,7 @@ GIthub使用指北:
 
 采用了与torchvison中vgg相似的实现方法.
 
-( The implementation method is similar to that of VGg in torchvision. )
+( The implementation method is similar to that of VGG in torchvision. )
 
 在使用时,与调用torchvision.models中模型相似.
 
