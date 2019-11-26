@@ -23,3 +23,8 @@ welcome **star**, **fork**, **watch**.
 The model structure:
 ![image](imgs/model.png)
 
+
+| | top-1 | top-5 |
+|:---:|:---:|:---:|
+| | 72.9% | 91.2% |
+| | 76.5% | 93.3% |
